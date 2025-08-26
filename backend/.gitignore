@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Misc
+.DS_Store
+"@ | Set-Content -Path .gitignore -Encoding UTF8__pycache__/
+*.pyc
+venv/
+.env
+*.env
+.ipynb_checkpoints/
